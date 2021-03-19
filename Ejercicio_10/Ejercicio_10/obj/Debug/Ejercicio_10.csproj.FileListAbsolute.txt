@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_10\Ejercicio_10\bin\Debug\Ejercicio_10.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_10\Ejercicio_10\bin\Debug\Ejercicio_10.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_10\Ejercicio_10\bin\Debug\Ejercicio_10.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_10\Ejercicio_10\obj\Debug\Ejercicio_10.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_10\Ejercicio_10\obj\Debug\Ejercicio_10.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_10\Ejercicio_10\obj\Debug\Ejercicio_10.pdb

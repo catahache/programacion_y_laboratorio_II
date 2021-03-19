@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_11\Validacion\bin\Debug\Validacion.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_11\Validacion\bin\Debug\Validacion.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_11\Validacion\obj\Debug\LibreriaValidacion.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_11\Validacion\obj\Debug\LibreriaValidacion.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_11\Validacion\obj\Debug\Validacion.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_11\Validacion\obj\Debug\Validacion.pdb

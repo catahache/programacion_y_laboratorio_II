@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_12\Libreria\bin\Debug\Libreria.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_12\Libreria\bin\Debug\Libreria.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_12\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_12\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_12\Libreria\obj\Debug\Libreria.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_12\Libreria\obj\Debug\Libreria.pdb
