@@ -1,0 +1,10 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\bin\Debug\Ejercicio_13.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\bin\Debug\Ejercicio_13.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\bin\Debug\Ejercicio_13.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\bin\Debug\Biblioteca.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\bin\Debug\Biblioteca.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\obj\Debug\Ejercicio_13.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.CopyComplete
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\obj\Debug\Ejercicio_13.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_13\Ejercicio_13\obj\Debug\Ejercicio_13.pdb
