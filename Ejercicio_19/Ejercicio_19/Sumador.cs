@@ -61,12 +61,7 @@ namespace Ejercicio_19
         /// <returns></returns>
         public static bool operator |(Sumador s1, Sumador s2)
         {
-            bool mismaCantidad = false;
-            if((int)s1 == (int)s2)//utilizo el casteo que declare arriba
-            {
-                mismaCantidad = true;
-            }
-            return mismaCantidad;
+            return (int)s1 == (int)s2;//utilizo el casteo que declare arriba
         }
 
     }
