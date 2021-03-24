@@ -17,7 +17,11 @@ namespace Ejercicio_19
             Console.WriteLine(sumador.Sumar(3, 4));
             Console.WriteLine(sumador2.Sumar(5, 4));
             Console.WriteLine(sumador2.Sumar(3, 7));
+            Console.WriteLine(sumador.Sumar(6, 4));
             Console.WriteLine(sumador.Sumar("Programacion ", "II"));
+
+            Console.WriteLine((int)sumador);//me devolvera la cant de sumas hechas por este sumador
+            Console.WriteLine((int)sumador2);//me devolvera la cant de sumas hechas por este sumador
 
             if (sumador | sumador2)
             {

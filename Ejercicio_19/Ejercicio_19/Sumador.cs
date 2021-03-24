@@ -27,7 +27,9 @@ namespace Ejercicio_19
 
         public string Sumar(string a, string b)
         {
+            this.cantidadSumas++;//suma una suma
             return $"{a}{b}";
+            //return a+b; tambien esta bien
         }
 
         /// <summary>
@@ -60,7 +62,7 @@ namespace Ejercicio_19
         public static bool operator |(Sumador s1, Sumador s2)
         {
             bool mismaCantidad = false;
-            if(s1.cantidadSumas == s2.cantidadSumas)
+            if((int)s1 == (int)s2)//utilizo el casteo que declare arriba
             {
                 mismaCantidad = true;
             }
