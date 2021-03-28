@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Billetes\bin\Debug\Billetes.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Billetes\bin\Debug\Billetes.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Billetes\obj\Debug\Billetes.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Billetes\obj\Debug\Billetes.pdb

@@ -1,0 +1,7 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_17\Ejercicio_17\bin\Debug\Ejercicio_17.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_17\Ejercicio_17\bin\Debug\Ejercicio_17.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_17\Ejercicio_17\bin\Debug\Ejercicio_17.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_17\Ejercicio_17\obj\Debug\Ejercicio_17.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_17\Ejercicio_17\obj\Debug\Ejercicio_17.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_17\Ejercicio_17\obj\Debug\Ejercicio_17.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_17\Ejercicio_17\obj\Debug\Ejercicio_17.pdb

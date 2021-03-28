@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FBD8E855-BCBA-44F8-B407-B6D75D7C9BDE}</ProjectGuid>
+    <ProjectGuid>{A7797620-6764-443F-8945-424B3BCB3850}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicio_20</RootNamespace>
-    <AssemblyName>Ejercicio_20</AssemblyName>
+    <RootNamespace>Ejercicio_17</RootNamespace>
+    <AssemblyName>Ejercicio_17</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Boligrafo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Billetes\Billetes.csproj">
-      <Project>{953156e0-161d-4ff6-bf1f-3ecd98cd393f}</Project>
-      <Name>Billetes</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

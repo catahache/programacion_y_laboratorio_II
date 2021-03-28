@@ -1,0 +1,10 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\bin\Debug\Ejercicio_20.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\bin\Debug\Ejercicio_20.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\bin\Debug\Ejercicio_20.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\bin\Debug\Billetes.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\bin\Debug\Billetes.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CopyComplete
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_20\Ejercicio_20\obj\Debug\Ejercicio_20.pdb
