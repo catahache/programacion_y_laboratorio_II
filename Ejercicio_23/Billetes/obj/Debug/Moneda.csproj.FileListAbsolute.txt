@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\Billetes\bin\Debug\Billetes.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\Billetes\bin\Debug\Billetes.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\Billetes\obj\Debug\Moneda.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\Billetes\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\Billetes\obj\Debug\Billetes.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\Billetes\obj\Debug\Billetes.pdb

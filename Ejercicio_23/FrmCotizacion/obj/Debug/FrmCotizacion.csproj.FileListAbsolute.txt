@@ -1,0 +1,13 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\bin\Debug\FrmCotizacion.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\bin\Debug\FrmCotizacion.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\bin\Debug\FrmCotizacion.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\obj\Debug\FrmCotizacion.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\obj\Debug\FrmCotizacion.Form1.resources
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\obj\Debug\FrmCotizacion.Properties.Resources.resources
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\obj\Debug\FrmCotizacion.csproj.GenerateResource.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\obj\Debug\FrmCotizacion.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\obj\Debug\FrmCotizacion.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\obj\Debug\FrmCotizacion.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\bin\Debug\Billetes.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\bin\Debug\Billetes.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_23\FrmCotizacion\obj\Debug\FrmCotizacion.csproj.CopyComplete
