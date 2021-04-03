@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_21\UnidadesTemperatura\bin\Debug\UnidadesTemperatura.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_21\UnidadesTemperatura\bin\Debug\UnidadesTemperatura.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_21\UnidadesTemperatura\obj\Debug\UnidadesTemperatura.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_21\UnidadesTemperatura\obj\Debug\UnidadesTemperatura.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_21\UnidadesTemperatura\obj\Debug\UnidadesTemperatura.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_21\UnidadesTemperatura\obj\Debug\UnidadesTemperatura.pdb

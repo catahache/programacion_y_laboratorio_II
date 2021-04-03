@@ -292,7 +292,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(652, 188);
+            this.ClientSize = new System.Drawing.Size(530, 188);
             this.Controls.Add(this.txtBPesoAPeso);
             this.Controls.Add(this.txtBPesoADolar);
             this.Controls.Add(this.txtBPesoAEuro);
@@ -321,7 +321,9 @@
             this.Controls.Add(this.lblCotizacion);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(546, 227);
             this.MinimizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(546, 227);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Conversor";
