@@ -1,0 +1,13 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\bin\Debug\FrmTemperatura.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\bin\Debug\FrmTemperatura.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\bin\Debug\FrmTemperatura.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\bin\Debug\UnidadesTemperatura.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\bin\Debug\UnidadesTemperatura.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\obj\Debug\FrmTemperatura.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\obj\Debug\FrmTemperatura.Form1.resources
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\obj\Debug\FrmTemperatura.Properties.Resources.resources
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\obj\Debug\FrmTemperatura.csproj.GenerateResource.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\obj\Debug\FrmTemperatura.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\obj\Debug\FrmTemperatura.csproj.CopyComplete
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\obj\Debug\FrmTemperatura.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_24\FrmTemperatura\obj\Debug\FrmTemperatura.pdb
