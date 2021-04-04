@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\SistemasNumeracion\bin\Debug\SistemasNumeracion.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\SistemasNumeracion\bin\Debug\SistemasNumeracion.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\SistemasNumeracion\obj\Debug\SistemasNumeracion.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\SistemasNumeracion\obj\Debug\SistemasNumeracion.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\SistemasNumeracion\obj\Debug\SistemasNumeracion.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\SistemasNumeracion\obj\Debug\SistemasNumeracion.pdb

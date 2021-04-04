@@ -1,0 +1,13 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\bin\Debug\FrmConversor.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\bin\Debug\FrmConversor.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\bin\Debug\FrmConversor.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\bin\Debug\SistemasNumeracion.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\bin\Debug\SistemasNumeracion.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\obj\Debug\FrmConversor.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\obj\Debug\FrmConversor.FrmSistemasNumericos.resources
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\obj\Debug\FrmConversor.Properties.Resources.resources
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\obj\Debug\FrmConversor.csproj.GenerateResource.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\obj\Debug\FrmConversor.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\obj\Debug\FrmConversor.csproj.CopyComplete
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\obj\Debug\FrmConversor.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_25\FrmConversor\obj\Debug\FrmConversor.pdb
