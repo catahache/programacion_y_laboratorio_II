@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\prueba\bin\Debug\prueba.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\prueba\bin\Debug\prueba.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\prueba\bin\Debug\prueba.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\prueba\obj\Debug\prueba.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\prueba\obj\Debug\prueba.pdb

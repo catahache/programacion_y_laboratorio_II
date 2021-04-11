@@ -1,0 +1,10 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\bin\Debug\Ejercicio_28.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\bin\Debug\Ejercicio_28.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\bin\Debug\Ejercicio_28.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.frmContador.resources
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.Properties.Resources.resources
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.csproj.GenerateResource.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.pdb

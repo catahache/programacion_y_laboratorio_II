@@ -1,0 +1,7 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_33\Ejercicio_33\bin\Debug\Ejercicio_33.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_33\Ejercicio_33\bin\Debug\Ejercicio_33.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_33\Ejercicio_33\bin\Debug\Ejercicio_33.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.pdb
