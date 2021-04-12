@@ -21,6 +21,7 @@ namespace SistemaDeAtencion
         }
 
         public Negocio(string nombre)
+            :this()
         {
             this.nombre = nombre;
         }
@@ -31,26 +32,23 @@ namespace SistemaDeAtencion
         {
             get
             {
-                return clientes.Peek(); //retornará el próximo cliente en la cola de atención
+                return clientes.Dequeue(); //retornará el próximo cliente en la cola de atención (lo saca de la cola?)
             }
             set
             {
                 //deberá controla que el Cliente no figure ya en la cola de atención, caso contrario lo agregará
-                //TODO ver como reutilizar la sobrecarga ==
-                bool isInQueue = false;
-                foreach (Cliente cli in clientes)
+                if (this != value)
                 {
-                    if (cli == value)//si ya figura en la cola
-                    {
-                        isInQueue = true;
-                        break;
-                    }
-                }
+                    this.clientes.Enqueue(value);
+                }  
+            }
+        }
 
-                if (!isInQueue)//si no esta en la cola, lo agrego
-                {
-                    clientes.Enqueue(value);
-                }
+        public int ClientesPendientes
+        {
+            get
+            {
+                return this.clientes.Count(); // cant de clientes a atender
             }
         }
         #endregion
@@ -76,6 +74,23 @@ namespace SistemaDeAtencion
         public static bool operator !=(Negocio n, Cliente c)
         {
             return !(n == c);
+        }
+
+        //El operador + será el único capaz de agregar un Cliente a la cola de atención. Sólo se agregará un Cliente si este no forma ya parte de la lista.Rehutilizar el == de Cliente
+        public static bool operator +(Negocio n, Cliente c)
+        {
+            if(n != c)
+            {
+                n.clientes.Enqueue(c);
+                return true;
+            }
+            return false;
+        }
+
+        //generará una atención del próximo cliente en la cola, utilizando la propiedad Client y el método Atender de PuestoAtencion. Retornará True si pudo realizar la operación completa.
+        public static bool operator ~(Negocio n)
+        {
+            return n.caja.Atender(n.Client); // Atender + Dequeue (get)
         }
     }
 }

@@ -14,10 +14,11 @@ namespace SistemaDeAtencion
 
         private PuestoAtencion()
         {
-            PuestoAtencion.numeroActual = 0;
+            numeroActual = 0;
         }
 
         public PuestoAtencion(Puesto puesto)
+            :this()
         {
             this.puesto = puesto;
         }
@@ -28,15 +29,10 @@ namespace SistemaDeAtencion
         {
             get 
             {
-                PuestoAtencion.numeroActual += 1;
-                return PuestoAtencion.numeroActual; 
+                //PuestoAtencion.numeroActual += 1;
+                //return PuestoAtencion.numeroActual; 
+                return ++numeroActual;
             }
-        }
-
-        public enum Puesto
-        {
-            Caja1,
-            Caja2
         }
 
         public bool Atender(Cliente cli)
@@ -45,6 +41,11 @@ namespace SistemaDeAtencion
             return true;
         }
 
+        public enum Puesto
+        {
+            Caja1,
+            Caja2
+        }
 
     }
 }

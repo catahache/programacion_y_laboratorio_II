@@ -1,0 +1,10 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\bin\Debug\Ejercicio_31.exe.config
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\bin\Debug\Ejercicio_31.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\bin\Debug\Ejercicio_31.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\bin\Debug\SistemaDeAtencion.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\bin\Debug\SistemaDeAtencion.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\obj\Debug\Ejercicio_31.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\obj\Debug\Ejercicio_31.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\obj\Debug\Ejercicio_31.csproj.CopyComplete
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\obj\Debug\Ejercicio_31.exe
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\Ejercicio_31\obj\Debug\Ejercicio_31.pdb

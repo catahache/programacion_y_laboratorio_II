@@ -1,0 +1,6 @@
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\SistemaDeAtencion\bin\Debug\SistemaDeAtencion.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\SistemaDeAtencion\bin\Debug\SistemaDeAtencion.pdb
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\SistemaDeAtencion\obj\Debug\SistemaDeAtencion.csprojAssemblyReference.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\SistemaDeAtencion\obj\Debug\SistemaDeAtencion.csproj.CoreCompileInputs.cache
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\SistemaDeAtencion\obj\Debug\SistemaDeAtencion.dll
+D:\utn\2021\prog_lab_II\Ejercicios\Ejercicio_31\SistemaDeAtencion\obj\Debug\SistemaDeAtencion.pdb
